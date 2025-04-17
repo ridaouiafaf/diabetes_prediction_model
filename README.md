@@ -39,7 +39,7 @@ I've always been intimidated by statistical visualizations — heatmaps, ROC cur
   - Confusion Matrix
   - Classification Report
   - **ROC AUC Score: ~0.82**
-
+  - **Cross-validation ROC AUC score: 5-Fold => [0.814, 0.800, 0.852, 0.886, 0.841] mean => 0.839**
 ---
 
 ## 📈 Key Results
