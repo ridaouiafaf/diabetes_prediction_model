@@ -44,8 +44,9 @@ I've always been intimidated by statistical visualizations — heatmaps, ROC cur
 
 ## 📈 Key Results
 
-- The model shows **good predictive power**, with an ROC AUC Score of **0.82**, meaning it can distinguish between diabetic and non-diabetic cases quite well.
-- Visualizations helped reveal which features (like glucose and BMI) are most strongly related to the outcome.
+- The model demonstrates strong predictive power, with a mean ROC AUC Score of 0.839 across 5-fold cross-validation — indicating consistent performance in distinguishing diabetic from non-diabetic cases.
+- All ROC AUC scores across the folds were above 0.80, showing high stability and generalizability.
+- Visualizations (like the correlation heatmap) highlighted that features such as glucose, BMI, and insulin have the strongest relationship with the diabetes outcome.
 
 ---
 
