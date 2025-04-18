@@ -64,4 +64,5 @@ It helped me gain hands-on experience with the **ML pipeline in healthcare** and
 - Importance of data visualization for insight and debugging
 - How cross-validation prevents overfitting
 - How to interpret ROC AUC and model coefficients in a healthcare context
+- Impact of hyperparameter tuning
 - That I can actually enjoy and get over my fear of statistics 😄
