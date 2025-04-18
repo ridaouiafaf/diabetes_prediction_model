@@ -16,7 +16,6 @@ It helped me gain hands-on experience with the **ML pipeline in healthcare** and
 
 ## 📊 Dataset Overview
 
-- **Source**: [Pima Indians Diabetes Database on Kaggle](https://www.kaggle.com/datasets/uciml/pima-indians-diabetes-database)
 - 768 rows, 9 columns
 - Features include: Glucose, BMI, Age, Blood Pressure, etc.
 - Target variable: `Outcome` (1 = Diabetes, 0 = No Diabetes)
