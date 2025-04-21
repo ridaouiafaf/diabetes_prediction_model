@@ -11,6 +11,7 @@ It helped me gain hands-on experience with the **ML pipeline in healthcare** and
 - Build and evaluate a Logistic Regression classifier
 - Improve it using **hyperparameter tuning**
 - Learn to interpret model outputs like **ROC AUC**, **feature importance**, and **confusion matrices**
+- Implementing explainability.
 
 ---
 
@@ -58,6 +59,10 @@ It helped me gain hands-on experience with the **ML pipeline in healthcare** and
 - Confusion Matrix and Classification Report showed balanced performance
 - Interpreted L1 feature importance to see which health factors mattered most (like Glucose and BMI)
 
+### 7. Explainability
+
+- Explaining the WHY behind the model's prediction results, as it is super important in healthcare, where understanding why a model makes a decision can be just as important as the decision itself.
+
 ## 🔍 What I Learned
 
 - How to build a real ML pipeline
@@ -65,4 +70,5 @@ It helped me gain hands-on experience with the **ML pipeline in healthcare** and
 - How cross-validation prevents overfitting
 - How to interpret ROC AUC and model coefficients in a healthcare context
 - Impact of hyperparameter tuning
-- That I can actually enjoy and get over my fear of statistics 😄
+- That I can actually enjoy and get over my fear of statistics :D
+- Explainability might be not that scary at the end of the day :')
